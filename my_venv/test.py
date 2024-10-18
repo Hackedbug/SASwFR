@@ -1,5 +1,6 @@
-print("Hello World. This is Ahmed sending this code from vscode linked to his wsl distro.")
-input("Enter your full name: ")
-float(input("Enter your age: "))
+name,price,weight = "soap", "$24", "40kg"
 
-print("Welcome aboard the A-train.")
+
+print(name)
+print(price)
+print(weight)
