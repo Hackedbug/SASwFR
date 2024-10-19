@@ -8,3 +8,5 @@ if age < 18:
     print("Thank you, " + name + " but you're not eligible for to use this platform.")
 else:
     print("Thank you, " + name + ", for you are eligible for this platform.")
+
+print("This is another test.")
