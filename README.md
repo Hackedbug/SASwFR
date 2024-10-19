@@ -3,3 +3,6 @@
 
 
 This is the code written by me for an Attedance System for schools using facial recognition as the means instead of using the old-fashioned paper system.
+
+## Subheader
+This is just a test to check out the whole git situation.
